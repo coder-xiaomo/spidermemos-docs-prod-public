@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhigeweb_help_center=self.webpackChunkzhigeweb_help_center||[]).push([[5573],{3160:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/zh-Hans/blog/tags/hola","allTagsPath":"/zh-Hans/blog/tags","count":1,"unlisted":false}')}}]);
